@@ -45,13 +45,13 @@ https://www.figma.com/design/tKuklKjxQeEupBg5wJAoA7/Event-Photography-Website-UI
 ![Homepage](screenshots/homepage.png)
 
 ### Social proof
-![Proofpage](screenshots/socialproof.png)
+![Proofpage](screenshots/proof.png)
 
 ### Service Detail Page
-![Service Page](screenshots/service-page.png)
+![Service Page](screenshots/servicepage.png)
 
 ### Contact Page
-![Contact Page](screenshots/contact-page.png)
+![Contact Page](screenshots/contactpage.png)
 
 
 ## Author
